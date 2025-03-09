@@ -15,3 +15,6 @@ Key Features:
 
 
 Try it live [here](https://anwarmadani.github.io/pricing-component-toggle/).
+
+Preview:
+![Screenshot (68)](https://github.com/user-attachments/assets/3a3d26f2-edb8-477e-a108-71249b948102)
